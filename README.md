@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm SeongMi
+
 
 <!--
 **hisungmi/hisungmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
