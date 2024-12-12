@@ -22,8 +22,12 @@
 </p>
 <div>
 	<h2>🌈About Me</h2>
-	<a href="https://velog.io/@hisungmi/posts"><img src="https://img.shields.io/badge/velog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
-	<a href="https://hisungmi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FE5F50?style=flat-square&logo=tistory&logoColor=white"/></a>
+	<a href="https://velog.io/@hisungmi">
+    		<img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" />
+  	</a>&nbsp
+	<a href="https://hisungmi.tistory.com">
+    		<img src="https://img.shields.io/badge/tistory-FE5F50?style=for-the-badge&logo=tistory&logoColor=white" />
+  	</a>&nbsp
 
 </div>
 <div>
